@@ -1,0 +1,13 @@
+import java.util.Scanner;
+class DynamicPrintCube{
+public static void main(String []args){
+
+     Scanner sc = new Scanner(System.in);
+      int a = sc.nextInt();
+       System.out.print(printCube(a));
+     }
+  
+   public static int printCube(int a){
+         return a*a*a;
+     }
+}

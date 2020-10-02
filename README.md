@@ -1,2 +1,2 @@
 # javaPrograms
-This repository has random java programs for relability and security
+This repository has random java programs for reliability and security
